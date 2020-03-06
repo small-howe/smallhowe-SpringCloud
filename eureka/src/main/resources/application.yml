@@ -1,0 +1,18 @@
+#spring:
+#  application:
+#    name: eureka
+#server:
+#  port: 1111
+## 默认情况下 Eureka Server 也是一个普通的微服务，所以当他还是一个注册中心的时候 他会有两层身份 1:注册中心  2:普通服务  既当前服务默认会将自己注册进去
+## false: 当前项目不要注册
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    # 表示 是否从Eureka Server 上获取注册信息
+#    fetch-registry: true
+#    # B服务 要注册在A服务上
+#    service-url:
+#      defaultZone: http://eurekaB:1112/eureka
+#      # 服务起的别名 服务名 注册在服务中心
+#  instance:
+#    hostname: eurekaA
