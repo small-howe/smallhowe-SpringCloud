@@ -4,6 +4,8 @@ import com.tangwh.User;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDate;
+
 @RestController
 public class HelloController {
 
@@ -26,6 +28,9 @@ public class HelloController {
 
     @GetMapping("/hello2")
     public String hello2(String name) {
+
+        LocalDate date = LocalDate.now();
+        System.out.println(date+">>>"+name);
 
 
         return "hello" + name;
