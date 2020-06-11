@@ -6,18 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka2" />
-        <module name="smallhowecloud" />
+        <module name="resilience4j" />
+        <module name="commons" />
         <module name="provider" />
         <module name="eureka" />
+        <module name="provider2" />
+        <module name="hystrix" />
+        <module name="eureka2" />
+        <module name="openfeign" />
+        <module name="consumer" />
+        <module name="hello-api" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer" options="-parameters" />
       <module name="eureka" options="-parameters" />
       <module name="eureka2" options="-parameters" />
+      <module name="hystrix" options="-parameters" />
+      <module name="openfeign" options="-parameters" />
       <module name="provider" options="-parameters" />
+      <module name="provider2" options="-parameters" />
     </option>
   </component>
 </project>
