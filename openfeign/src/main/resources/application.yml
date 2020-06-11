@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: openfeign
+server:
+  port: 4000
+# 注册地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka
