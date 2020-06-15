@@ -1,22 +1,29 @@
 package com.tangwh.controller;
 
 import com.tangwh.User;
+import com.tangwh.api.IUserService;
+import io.github.resilience4j.ratelimiter.annotation.RateLimiter;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.time.LocalDate;
+import java.util.Date;
 
 @RestController
-public class HelloController {
+public class HelloController implements IUserService {
 
 
     @Value("${server.port}")
     Integer port;
 
-    @GetMapping("/hello")
+    @Override
+    @RateLimiter(name = "rlA")//服务端限流操作 配置在配置文件中
     public String hello() {
-
-        return "Hello Javaboy"+port;
+        String s = "Hello Javaboy" + port;
+        System.out.println(new Date());
+        return s;
     }
 
     /**
@@ -26,7 +33,7 @@ public class HelloController {
      * @return
      */
 
-    @GetMapping("/hello2")
+    @Override
     public String hello2(String name) {
 
         LocalDate date = LocalDate.now();
@@ -52,7 +59,7 @@ public class HelloController {
      * @param user
      * @return
      */
-    @PostMapping("/user2")
+    @Override
     public User addUser2(@RequestBody User user) {
 
         return user;
@@ -94,10 +101,21 @@ public class HelloController {
     /**
      * 测试RestTemplate 中的Delete请求 参数  路径的形式 递。 删除操作
      */
-    @DeleteMapping("/user2/{id}")
+    @Override
     public void deleteUser2(@PathVariable Integer id){
         System.out.println(id);
 
+    }
+
+
+    /**
+     * 测试 OpenFeign 参数传递
+     *
+     * @param name
+     */
+    @Override
+    public void getUserByName(@RequestHeader String name) throws UnsupportedEncodingException {
+        System.out.println(URLDecoder.decode(name, "UTF-8"));
     }
 
 }

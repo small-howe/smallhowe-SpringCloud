@@ -10,3 +10,11 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:1111/eureka
+      #服务端限流操作(每1s处理一个请求)
+resilience4j:
+  ratelimiter:
+    limiters:
+      rlA:
+        limit-for-period: 3 #在一个刷新周期 处理几个请求
+        limit-refresh-period: 1s #刷新的时间
+        timeout-duration: 1s #刷新之后的冷却时间
