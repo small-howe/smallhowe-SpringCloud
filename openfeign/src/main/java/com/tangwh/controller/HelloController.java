@@ -1,15 +1,14 @@
 package com.tangwh.controller;
 
 import com.tangwh.User;
-import com.tangwh.serivce.HelloService;
+import com.tangwh.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.UnsupportedEncodingException;
-import java.net.URLEncoder;
 
-import static java.net.URLEncoder.*;
+import static java.net.URLEncoder.encode;
 
 @RestController
 public class HelloController {
@@ -28,9 +27,9 @@ public class HelloController {
     public String hello() throws UnsupportedEncodingException {
         String hello2 = helloService.hello2("唐同学");
         System.out.println(hello2);
-        User user = helloService.addUser(new User(1, "javaboy", "123"));
+        User user = helloService.addUser2(new User(1, "javaboy", "123"));
         System.out.println(user);
-        helloService.deleteUserById(1);
+        helloService.deleteUser2(1);
         helloService.getUserByName(encode("唐同学", "UTF-8"));
         return helloService.hello();
     }

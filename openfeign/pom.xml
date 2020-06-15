@@ -32,6 +32,12 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
+        <!--        openfeign 和 provider 接口调用 工共的部分-->
+        <dependency>
+            <groupId>com.tangwh</groupId>
+            <artifactId>hello-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <dependency>
             <groupId>com.tangwh</groupId>
             <artifactId>commons</artifactId>

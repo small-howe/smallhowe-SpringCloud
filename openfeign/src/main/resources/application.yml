@@ -8,3 +8,21 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:1111/eureka
+  # 开启 日志级别
+logging:
+  level:
+    com.tangwh.service.HelloService: debug
+
+  # 开启请求-压缩的数据类型-压缩的数据下限-响应 的数据压缩
+  # 压缩的数据下限: 表示当要传输的数据大于2048时 才会进行数据压缩
+feign:
+  compression:
+    request:
+      enabled: true
+      mime-types: text/html,application/json
+      min-request-size: 2028
+    response:
+      enabled: true
+      #开启服务断容
+  hystrix:
+    enabled: true
