@@ -1,0 +1,31 @@
+resilience4j:
+  # 请求重试
+  retry:
+    retry-aspect-order: 399  #表示Retry(请求重试)优先级 数越小 优先级越高
+    backends:
+      #重试策略名(实例名)
+      retryA:
+        maxRetryAttempts: 5 #重试的次数
+        waiatDuration: 500 #重试的等待时间
+        exponentialBackoffMultiplier: 1.1 #间隔乘数
+        retryExceptions:
+          - java.lang.RuntimeException #异常
+  # 服务断容
+  circuitbreaker:
+    instances:
+      cbA:
+        ringBufferSizeInCloseState: 5 #状态环形下的缓存大小
+        ringBufferSizeInHalfOpenState: 3 #当断路器 处于half(一半) opne状态 环形缓冲区的大小e
+        waitIntercal: 5000          #从open到 HalfOpen的间隔时间
+        recordException:
+          - org.springframework.web.client.HttpServerErrorExceptoion
+    circuit-breaker-aspect-order: 398  #优先级
+spring:
+  application:
+    name: resilience4j
+server:
+  port: 5000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka
