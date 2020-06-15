@@ -61,7 +61,7 @@ public class Resilience4jTest {
 
 
     /**
-     * 短路测试
+     * 服务熔断测试
      */
     @Test
     public void test2() {
