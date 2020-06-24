@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ff92d5-dffb-4b89-938a-892d57c94c75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -109,20 +107,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
+            <state relative-caret-position="42">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/pom.xml">
+        <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            <state>
+              <caret column="47" selection-start-column="47" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -169,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config-server/src/main/java/com/tangwh/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.properties" />
@@ -220,6 +217,7 @@
         <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java" />
         <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/AlibabaNacosSentinelApplication.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -693,7 +691,7 @@
       <workItem from="1592978313083" duration="1658000" />
       <workItem from="1592980285302" duration="2658000" />
       <workItem from="1592985996660" duration="3446000" />
-      <workItem from="1592989608297" duration="458000" />
+      <workItem from="1592989608297" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="consumer-消费者">
       <created>1583582059931</created>
@@ -982,7 +980,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592990063738</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="SpringCloud -Netflix -AliBaBa">
+      <created>1592990115781</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1592990115781</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1018,7 +1023,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199004000" />
+    <option name="totallyTimeSpent" value="199116000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1031,6 +1036,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8070404" visible="true" weight="0.15413333" />
       <window_info id="Structure" order="1" sideWeight="0.19295958" side_tool="true" visible="true" weight="0.15413333" />
@@ -1103,10 +1109,10 @@
     <MESSAGE value="alibaba-nacos-提供的配置中心以及注册中心" />
     <MESSAGE value="alibabanacos-signin-consumer-阿里注册中心消费者" />
     <MESSAGE value="alibabanacos-signin-阿里注册中心提供者" />
-    <MESSAGE value="SpringCloud -Netflix -AliBaBa" />
     <MESSAGE value="alibaba-nacos-sentinel-使用Nocos配置Sentinel流控" />
     <MESSAGE value="alibaba--sentinel-使用Sentinel可视化限流流控" />
-    <option name="LAST_COMMIT_MESSAGE" value="alibaba--sentinel-使用Sentinel可视化限流流控" />
+    <MESSAGE value="SpringCloud -Netflix -AliBaBa" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringCloud -Netflix -AliBaBa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1127,9 +1133,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/micrometer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/stream/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
@@ -1457,7 +1460,7 @@
     <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1474,7 +1477,7 @@
     <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -1509,6 +1512,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
