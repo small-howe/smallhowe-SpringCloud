@@ -7,33 +7,37 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="consumer" />
-        <module name="hello-api" />
+        <module name="hystrix" />
         <module name="eureka2" />
         <module name="sleuth" />
         <module name="stream" />
         <module name="micrometer" />
         <module name="gateway" />
+        <module name="alibaba-sentinel" />
+        <module name="alibabanacos-signin" />
+        <module name="alibaba-nacos-sentinel" />
         <module name="zuul" />
         <module name="resilience4j" />
         <module name="provider" />
-        <module name="hystrix" />
-        <module name="consul-provider" />
-        <module name="spring-cloud-resilience4j" />
         <module name="alibabanacos-signin-consumer" />
+        <module name="consul-provider" />
+        <module name="provider2" />
+        <module name="spring-cloud-resilience4j" />
         <module name="config-client" />
         <module name="openfeign" />
         <module name="eureka" />
         <module name="alibabanacos" />
-        <module name="alibabanacos-signin" />
-        <module name="config-server" />
+        <module name="hello-api" />
         <module name="consul-consumer" />
         <module name="commons" />
-        <module name="provider2" />
+        <module name="config-server" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alibaba-nacos-sentinel" options="-parameters" />
+      <module name="alibaba-sentinel" options="-parameters" />
       <module name="alibabanacos" options="-parameters" />
       <module name="alibabanacos-signin" options="-parameters" />
       <module name="alibabanacos-signin-consumer" options="-parameters" />

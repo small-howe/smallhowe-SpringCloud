@@ -26,6 +26,8 @@
         <option value="$PROJECT_DIR$/alibabanacos/pom.xml" />
         <option value="$PROJECT_DIR$/alibabanacos-signin/pom.xml" />
         <option value="$PROJECT_DIR$/alibabanacos-signin-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba-sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/pom.xml" />
       </list>
     </option>
   </component>
