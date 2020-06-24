@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-06-18T05:44:11.108+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Cannot load keys from store: class path resource [config-server.keystore]",
+  "path": "/encrypt/status"
+}

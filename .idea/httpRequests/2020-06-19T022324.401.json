@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-06-19T06:23:24.772+0000",
+  "status": 401,
+  "error": "Unauthorized",
+  "message": "Unauthorized",
+  "path": "/encrypt/status"
+}

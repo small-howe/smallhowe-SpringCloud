@@ -2,37 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ff92d5-dffb-4b89-938a-892d57c94c75" name="Default Changelist" comment="provider-提供服务者">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/commons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/target/classes/com/tangwh/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-api/hello-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-api/src/main/java/com/tangwh/api/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallbackFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resilience4j/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resilience4j/resilience4j.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-12T035953.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-15T103608.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-18T014411.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-18T015728.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-18T042223.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-18T044040.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-18T123158.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-18T124500.400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-19T022324.401.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/AlibabanacosSigninConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/test/java/com/tangwh/AlibabanacosSigninConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/AlibabanacosSigninApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/test/java/com/tangwh/AlibabanacosSigninApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/tangwh/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/tangwh/ConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/tangwh/controller/UserHelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/tangwh/controller/UserHelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/openfeign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/OpenfeignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/OpenfeignApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/serivce/HelloService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/openfeign/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/HelloController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,6 +53,21 @@
     <ignored path="$PROJECT_DIR$/hystrix/target/" />
     <ignored path="$PROJECT_DIR$/hello-api/target/" />
     <ignored path="$PROJECT_DIR$/resilience4j/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-resilience4j/target/" />
+    <ignored path="$PROJECT_DIR$/micrometer/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/zuul/target/" />
+    <ignored path="$PROJECT_DIR$/gateway/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/stream/target/" />
+    <ignored path="$PROJECT_DIR$/sleuth/target/" />
+    <ignored path="$PROJECT_DIR$/consul/target/" />
+    <ignored path="$PROJECT_DIR$/consul-provider/target/" />
+    <ignored path="$PROJECT_DIR$/consul-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/alibabanacos/target/" />
+    <ignored path="$PROJECT_DIR$/alibabanacos-signin/target/" />
+    <ignored path="$PROJECT_DIR$/alibabanacos-signin-consumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +80,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/openfeign/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/sleuth/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state>
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallback.java">
+        <entry file="file://$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="398">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,52 +101,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallbackFactory.java">
+        <entry file="file://$PROJECT_DIR$/eureka2/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="462">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="20">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="707">
-                <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resilience4j/pom.xml">
+        <entry file="file://$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/SleuthApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-api/src/main/java/com/tangwh/api/IUserService.java">
+        <entry file="file://$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/HelloService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="590">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,19 +149,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/openfeign/pom.xml">
+        <entry file="file://$PROJECT_DIR$/sleuth/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="21">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/HelloController.java">
+        <entry file="file://$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2016">
-              <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+            <state relative-caret-position="441">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,10 +170,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+        <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="49" selection-end-column="21" />
+            <state relative-caret-position="462">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,60 +194,68 @@
   <component name="FindBugs-IDEA-Workspace">
     <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Hello Javaboy1113</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka/src/test/java/com/tangwh/eureka/EurekaApplicationTests.java" />
-        <option value="$PROJECT_DIR$/eureka/src/main/java/com/tangwh/eureka/EurekaApplication.java" />
-        <option value="$PROJECT_DIR$/eureka/src/main/resources/application-b.yml" />
-        <option value="$PROJECT_DIR$/eureka/src/main/resources/application-a.yml" />
-        <option value="$PROJECT_DIR$/eureka2/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/eureka2/src/main/java/com/tangwh/Eureka2Application.java" />
-        <option value="$PROJECT_DIR$/eureka2/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/provider/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/provider/.gitignore" />
-        <option value="$PROJECT_DIR$/consumer/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/provider2/pom.xml" />
-        <option value="$PROJECT_DIR$/provider2/src/main/java/com/tangwh/Provider2Application.java" />
-        <option value="$PROJECT_DIR$/consumer/src/main/java/com/tangwh/ConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/consumer/src/main/java/com/tangwh/controller/UserHelloController.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/openfeign/OpenfeignApplication.java" />
-        <option value="$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/RegisterController.java" />
-        <option value="$PROJECT_DIR$/provider2/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HystrixApplication.java" />
-        <option value="$PROJECT_DIR$/provider2/src/main/java/com/tangwh/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloCimmand.java" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloService.java" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloCommand.java" />
         <option value="$PROJECT_DIR$/hystrix/pom.xml" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/UserBatchCommar.java" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/UserCollapseCommand.java" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloController.java" />
-        <option value="$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/UserService.java" />
-        <option value="$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java" />
-        <option value="$PROJECT_DIR$/hello-api/pom.xml" />
-        <option value="$PROJECT_DIR$/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/tangwh/ConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/openfeign/pom.xml" />
-        <option value="$PROJECT_DIR$/hello-api/src/main/java/com/tangwh/api/IUserService.java" />
-        <option value="$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/serivce/HelloService.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/OpenfeignApplication.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallback.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloService.java" />
-        <option value="$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallbackFactory.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/client1-dev.properties" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/config-client/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/tangwh/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/stream/pom.xml" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/tangwh/MyReceiver.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/tangwh/MyChannerl.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/tangwh/MyReceiver2.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/SleuthApplication.java" />
+        <option value="$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/HelloService.java" />
+        <option value="$PROJECT_DIR$/consul/pom.xml" />
+        <option value="$PROJECT_DIR$/consul/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/consul/src/main/java/com/tangwh/ConsulApplication.java" />
+        <option value="$PROJECT_DIR$/consul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/consul-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/consul-provider/src/main/java/com/tangwh/ConsulProviderApplication.java" />
+        <option value="$PROJECT_DIR$/consul-provider/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/consul-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/consul-consumer/src/main/java/com/tangwh/ConsulConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/consul-consumer/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/alibabanacos/pom.xml" />
+        <option value="$PROJECT_DIR$/alibabanacos/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/alibabanacos/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/AlibabanacosApplication.java" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin/pom.xml" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/AlibabanacosSigninApplication.java" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/AlibabanacosSigninConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/HelloController.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/sleuth/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka2/pom.xml" />
+        <option value="$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
       </list>
     </option>
   </component>
@@ -252,17 +279,22 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="alibabanacos-signin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="alibabanacos-signin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="alibabanacos-signin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="alibabanacos-signin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -273,10 +305,10 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="720" />
-    <option name="y" value="80" />
-    <option name="width" value="1559" />
-    <option name="height" value="1000" />
+    <option name="x" value="197" />
+    <option name="y" value="33" />
+    <option name="width" value="1440" />
+    <option name="height" value="897" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -284,9 +316,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="CatdeaLogs" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,12 +326,20 @@
             <path>
               <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="resilience4j" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,7 +350,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-server/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -325,7 +362,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -334,8 +371,85 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.tangwh" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\smallhowecloud\config-server\src\main\resources" />
+      <recent name="E:\IdeaProjects\smallhowecloud\config-client\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\smallhowecloud\config-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8081/encrypt/status" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082/actuator/refresh" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v3+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8081/encrypt" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/prometheus" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="text/plain;version=0.0.4;charset=utf-8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/beans" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v3+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -346,20 +460,76 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.1867894" />
   </component>
-  <component name="RunManager" selected="Spring Boot.OpenfeignApplication">
-    <configuration name="EurekaApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="eureka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tangwh.eureka.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tangwh.eureka" />
-      <option name="MAIN_CLASS_NAME" value="com.tangwh.eureka.EurekaApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
+  <component name="RunManager" selected="Spring Boot.AlibabanacosSigninConsumerApplication">
+    <configuration name="ConfigClientApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/ConfigClientApplication.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigServerApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/ConfigServerApplication.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigServerApplication#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/ConfigServerApplication.http" index="2">
+      <method v="2" />
+    </configuration>
+    <configuration name="MicrometerApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/MicrometerApplication.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="MicrometerApplication#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/MicrometerApplication.http" index="2">
+      <method v="2" />
+    </configuration>
+    <configuration name="AlibabanacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alibabanacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.AlibabanacosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlibabanacosSigninApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alibabanacos-signin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.AlibabanacosSigninApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlibabanacosSigninConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alibabanacos-signin-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.AlibabanacosSigninConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consul-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.ConsulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consul-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.ConsulConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consul-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.ConsulProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -385,9 +555,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hystrix" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.HystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicrometerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micrometer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.MicrometerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -413,9 +597,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SleuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sleuth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.SleuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudResilience4jApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-resilience4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.SpringCloudResilience4jApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stream" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.StreamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangwh.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EurekaApplicationTests.contextLoads" />
+        <item itemvalue="HTTP Request.ConfigServerApplication#1" />
+        <item itemvalue="HTTP Request.ConfigClientApplication#1" />
+        <item itemvalue="HTTP Request.ConfigServerApplication#2" />
+        <item itemvalue="HTTP Request.MicrometerApplication#2" />
+        <item itemvalue="HTTP Request.MicrometerApplication#1" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +685,31 @@
       <workItem from="1591771371977" duration="4000" />
       <workItem from="1591794629790" duration="1048000" />
       <workItem from="1591838771897" duration="4289000" />
-      <workItem from="1591850161059" duration="2651000" />
+      <workItem from="1591850161059" duration="3304000" />
+      <workItem from="1591856135834" duration="1645000" />
+      <workItem from="1591857798996" duration="6309000" />
+      <workItem from="1591926524917" duration="8379000" />
+      <workItem from="1591947984849" duration="1422000" />
+      <workItem from="1591960296354" duration="594000" />
+      <workItem from="1592185188014" duration="4033000" />
+      <workItem from="1592198408591" duration="4773000" />
+      <workItem from="1592205235074" duration="5830000" />
+      <workItem from="1592221639324" duration="5753000" />
+      <workItem from="1592270734880" duration="5872000" />
+      <workItem from="1592390661610" duration="1828000" />
+      <workItem from="1592393516540" duration="599000" />
+      <workItem from="1592443923585" duration="2749000" />
+      <workItem from="1592446896259" duration="15134000" />
+      <workItem from="1592529219832" duration="14506000" />
+      <workItem from="1592582021652" duration="12000" />
+      <workItem from="1592583389443" duration="2223000" />
+      <workItem from="1592626343501" duration="1270000" />
+      <workItem from="1592655779534" duration="4510000" />
+      <workItem from="1592789193474" duration="8000" />
+      <workItem from="1592896478902" duration="728000" />
+      <workItem from="1592963133684" duration="4402000" />
+      <workItem from="1592968333930" duration="4854000" />
+      <workItem from="1592978313083" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="consumer-消费者">
       <created>1583582059931</created>
@@ -520,16 +760,218 @@
       <option name="project" value="LOCAL" />
       <updated>1591838813671</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SpringCloud微服务">
+      <created>1591853570954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591853570954</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Resilience4j--断路器-限流-请求重试">
+      <created>1591926844786</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591926844787</updated>
+    </task>
+    <task id="LOCAL-00010" summary="zuul-路由网关">
+      <created>1592211105018</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211105018</updated>
+    </task>
+    <task id="LOCAL-00011" summary="springCloud-resilience4j-断路器,限流,缓存,请求重试">
+      <created>1592211262995</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211262995</updated>
+    </task>
+    <task id="LOCAL-00012" summary="resilience4j-断路器,限流,缓存,请求重试">
+      <created>1592211306185</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211306185</updated>
+    </task>
+    <task id="LOCAL-00013" summary="provider-提供服务者">
+      <created>1592211352936</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211352936</updated>
+    </task>
+    <task id="LOCAL-00014" summary="micrometer-服务监控">
+      <created>1592211398104</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211398104</updated>
+    </task>
+    <task id="LOCAL-00015" summary="openfeign-服务调用">
+      <created>1592211442075</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211442075</updated>
+    </task>
+    <task id="LOCAL-00016" summary="hello-api-服务提供者提供出来的接口">
+      <created>1592211510509</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211510509</updated>
+    </task>
+    <task id="LOCAL-00017" summary="zuul-路由服务网关">
+      <created>1592978387618</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978387618</updated>
+    </task>
+    <task id="LOCAL-00018" summary="springCloud-resilience4j-断路器,限流,缓存,请求重试">
+      <created>1592978438398</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978438398</updated>
+    </task>
+    <task id="LOCAL-00019" summary="hello-api-服务提供者提供出来的接口">
+      <created>1592978512066</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978512066</updated>
+    </task>
+    <task id="LOCAL-00020" summary="stream-构建消息驱动的微服务">
+      <created>1592978632356</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978632356</updated>
+    </task>
+    <task id="LOCAL-00021" summary="openfeign-服务只之间的调用">
+      <created>1592978701897</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978701897</updated>
+    </task>
+    <task id="LOCAL-00022" summary="sleuth-日志链路追踪">
+      <created>1592978836660</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978836660</updated>
+    </task>
+    <task id="LOCAL-00023" summary="hystrix-服务断路器/熔断器">
+      <created>1592978873058</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978873058</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Eureka-服务注册中心2(集群)">
+      <created>1592978933026</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978933026</updated>
+    </task>
+    <task id="LOCAL-00025" summary="consumer-服务消费者">
+      <created>1592978967523</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1592978967523</updated>
+    </task>
+    <task id="LOCAL-00026" summary="consul-consumer-新型注册中心消费者">
+      <created>1592979049885</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979049885</updated>
+    </task>
+    <task id="LOCAL-00027" summary="consul-provider-新型注册中心提供者">
+      <created>1592979085555</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979085555</updated>
+    </task>
+    <task id="LOCAL-00028" summary="consumer-服务消费者">
+      <created>1592979143165</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979143165</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commons-实体类">
+      <created>1592979186341</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979186341</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Gateway-和zuul差不多 比zuul多了限流,熔断等">
+      <created>1592979293164</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979293164</updated>
+    </task>
+    <task id="LOCAL-00031" summary="config-client-配置重新客户端">
+      <created>1592979338088</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979338088</updated>
+    </task>
+    <task id="LOCAL-00032" summary="config-server-配置中心服务端">
+      <created>1592979371574</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1592979371574</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EurekaApplicationTests_contextLoads - 2020.03.03 at 18h 29m 06s.xml">
-      <configuration name="EurekaApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="Resilience4jTest_test2 - 2020.06.11 at 15h 15m 34s.xml">
+      <configuration name="Resilience4jTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test2 - 2020.06.11 at 15h 16m 14s.xml">
+      <configuration name="Resilience4jTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test2 - 2020.06.11 at 15h 16m 47s.xml">
+      <configuration name="Resilience4jTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test2 - 2020.06.11 at 15h 17m 37s.xml">
+      <configuration name="Resilience4jTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test2 - 2020.06.11 at 15h 18m 34s.xml">
+      <configuration name="Resilience4jTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test3 - 2020.06.11 at 19h 38m 23s.xml">
+      <configuration name="Resilience4jTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test3 - 2020.06.11 at 19h 40m 24s.xml">
+      <configuration name="Resilience4jTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test4 - 2020.06.11 at 21h 28m 12s.xml">
+      <configuration name="Resilience4jTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test4 - 2020.06.11 at 21h 28m 34s.xml">
+      <configuration name="Resilience4jTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Resilience4jTest_test4 - 2020.06.11 at 21h 30m 15s.xml">
+      <configuration name="Resilience4jTest.test4" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92698000" />
+    <option name="totallyTimeSpent" value="191848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,8 +986,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18613334" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8248848" visible="true" weight="0.2096" />
+      <window_info id="Structure" order="1" sideWeight="0.17511521" side_tool="true" visible="true" weight="0.2096" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -555,27 +997,29 @@
       <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49643704" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4925575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47006652" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="6" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32934928" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32802126" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.1751663" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="6" weight="0.32897863" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32897863" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32779098" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.033407573" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003626" side_tool="true" weight="0.30040595" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32934928" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.18289787" />
-      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" order="17" weight="0.24701196" />
-      <window_info anchor="bottom" id="JRebel Executor" order="18" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.21937639" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.24701196" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" />
+      <window_info anchor="bottom" id="Version Control" order="18" weight="0.31308413" />
+      <window_info anchor="bottom" id="Run Dashboard" order="19" sideWeight="0.49963742" weight="0.3518268" />
+      <window_info anchor="bottom" id="Thumbnails" order="20" weight="0.32943925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.21376085" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.44525018" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
@@ -591,13 +1035,32 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="consumer-消费者" />
     <MESSAGE value="Eureka-服务注册中心(集群)" />
     <MESSAGE value="provider-提供服务者-负载均衡2" />
-    <MESSAGE value="provider-提供服务者" />
-    <MESSAGE value="hystrix-服务断路器/熔断器" />
     <MESSAGE value="openfeign---分布式调用服务" />
-    <option name="LAST_COMMIT_MESSAGE" value="openfeign---分布式调用服务" />
+    <MESSAGE value="SpringCloud微服务" />
+    <MESSAGE value="Resilience4j--断路器-限流-请求重试" />
+    <MESSAGE value="zuul-路由网关" />
+    <MESSAGE value="resilience4j-断路器,限流,缓存,请求重试" />
+    <MESSAGE value="provider-提供服务者" />
+    <MESSAGE value="micrometer-服务监控" />
+    <MESSAGE value="openfeign-服务调用" />
+    <MESSAGE value="zuul-路由服务网关" />
+    <MESSAGE value="springCloud-resilience4j-断路器,限流,缓存,请求重试" />
+    <MESSAGE value="hello-api-服务提供者提供出来的接口" />
+    <MESSAGE value="stream-构建消息驱动的微服务" />
+    <MESSAGE value="openfeign-服务只之间的调用" />
+    <MESSAGE value="sleuth-日志链路追踪" />
+    <MESSAGE value="hystrix-服务断路器/熔断器" />
+    <MESSAGE value="Eureka-服务注册中心2(集群)" />
+    <MESSAGE value="consul-consumer-新型注册中心消费者" />
+    <MESSAGE value="consul-provider-新型注册中心提供者" />
+    <MESSAGE value="consumer-服务消费者" />
+    <MESSAGE value="commons-实体类" />
+    <MESSAGE value="Gateway-和zuul差不多 比zuul多了限流,熔断等" />
+    <MESSAGE value="config-client-配置重新客户端" />
+    <MESSAGE value="config-server-配置中心服务端" />
+    <option name="LAST_COMMIT_MESSAGE" value="config-server-配置中心服务端" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -618,148 +1081,116 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/tangwh/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/com/tangwh/Commons.java" />
-    <entry file="file://$PROJECT_DIR$/commons/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/test/java/com/tangwh/openfeign/OpenfeignApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/tangwh/eureka/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="336">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="210">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="231">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="393">
+          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/ProviderApplication.java">
+    <entry file="file://E:/maven/repository/org/springframework/cloud/spring-cloud-starter-config/2.2.1.RELEASE/spring-cloud-starter-config-2.2.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/tangwh/StreamApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/tangwh/MyReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider2/src/main/java/com/tangwh/Provider2Application.java">
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="1302">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/tangwh/ConsumerApplication.java">
+    <entry file="file://$PROJECT_DIR$/gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="252">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/AbstractCommand.class">
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="572">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="file://$PROJECT_DIR$/micrometer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="1430">
+          <caret line="65" column="60" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/tangwh/MyChannerl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="157">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/tangwh/MyReceiver2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider2/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/tangwh/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/tangwh/controller/UserHelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4851">
-          <caret line="231" column="7" selection-start-line="231" selection-start-column="7" selection-end-line="231" selection-end-column="7" />
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -768,265 +1199,263 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/RegisterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider2/src/main/java/com/tangwh/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/http11/Http11Processor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3759">
-          <caret line="226" column="21" selection-start-line="226" selection-start-column="21" selection-end-line="226" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="41" column="66" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HystrixApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/HystrixCommand.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/UserBatchCommar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/mvnw.cmd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hystrix/src/main/java/com/tangwh/UserCollapseCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" column="170" selection-start-line="20" selection-start-column="144" selection-end-line="20" selection-end-column="170" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/OpenfeignApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloService.java">
+    <entry file="file://$PROJECT_DIR$/eureka/src/test/java/com/tangwh/eureka/EurekaApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/tangwh/eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/ProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-provider/src/main/java/com/tangwh/ConsulApplication.java" />
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/tangwh/controller/UserHelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-provider/src/main/java/com/tangwh/ConsulProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-consumer/src/main/java/com/tangwh/ConsulConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-consumer/src/main/java/com/tangwh/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="33" />
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-api/src/main/java/com/tangwh/api/IUserService.java">
+    <entry file="file://$PROJECT_DIR$/consul-provider/src/main/java/com/tangwh/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consul-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/pom.xml">
+    <entry file="file://$PROJECT_DIR$/alibabanacos/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="273">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/java/com/tangwh/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="49" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/openfeign/src/main/java/com/tangwh/service/HelloServiceFallbackFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resilience4j/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="63">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="707">
-            <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <first_editor relative-caret-position="314">
+            <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/AlibabanacosApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/AlibabanacosSigninApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/AlibabanacosSigninConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/SleuthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth/src/main/java/com/tangwh/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1047,6 +1476,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1081,7 +1511,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hello-api</last-edited>
+          <last-edited>commons</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1106,6 +1536,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

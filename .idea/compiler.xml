@@ -6,28 +6,54 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="resilience4j" />
-        <module name="commons" />
-        <module name="provider" />
-        <module name="eureka" />
-        <module name="provider2" />
-        <module name="hystrix" />
-        <module name="eureka2" />
-        <module name="openfeign" />
         <module name="consumer" />
         <module name="hello-api" />
+        <module name="eureka2" />
+        <module name="sleuth" />
+        <module name="stream" />
+        <module name="micrometer" />
+        <module name="gateway" />
+        <module name="zuul" />
+        <module name="resilience4j" />
+        <module name="provider" />
+        <module name="hystrix" />
+        <module name="consul-provider" />
+        <module name="spring-cloud-resilience4j" />
+        <module name="alibabanacos-signin-consumer" />
+        <module name="config-client" />
+        <module name="openfeign" />
+        <module name="eureka" />
+        <module name="alibabanacos" />
+        <module name="alibabanacos-signin" />
+        <module name="config-server" />
+        <module name="consul-consumer" />
+        <module name="commons" />
+        <module name="provider2" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alibabanacos" options="-parameters" />
+      <module name="alibabanacos-signin" options="-parameters" />
+      <module name="alibabanacos-signin-consumer" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="consul-consumer" options="-parameters" />
+      <module name="consul-provider" options="-parameters" />
       <module name="consumer" options="-parameters" />
       <module name="eureka" options="-parameters" />
       <module name="eureka2" options="-parameters" />
+      <module name="gateway" options="-parameters" />
       <module name="hystrix" options="-parameters" />
+      <module name="micrometer" options="-parameters" />
       <module name="openfeign" options="-parameters" />
       <module name="provider" options="-parameters" />
       <module name="provider2" options="-parameters" />
+      <module name="sleuth" options="-parameters" />
+      <module name="spring-cloud-resilience4j" options="-parameters" />
+      <module name="stream" options="-parameters" />
+      <module name="zuul" options="-parameters" />
     </option>
   </component>
 </project>

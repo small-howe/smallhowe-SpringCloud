@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-06-18T04:45:00.327+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "Required request body is missing: public java.lang.String org.springframework.cloud.config.server.encryption.EncryptionController.encrypt(java.lang.String,org.springframework.http.MediaType)",
+  "path": "/encrypt"
+}

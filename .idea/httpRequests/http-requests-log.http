@@ -1,0 +1,58 @@
+GET http://localhost:8081/encrypt/status
+
+<> 2020-06-19T022324.401.json
+
+###
+
+POST http://localhost:8082/actuator/refresh
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2020-06-18T044040.200.json
+
+###
+
+POST http://localhost:8082/actuator/refresh
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2020-06-18T042223.200.json
+
+###
+
+GET http://localhost:8081/encrypt/status
+
+<> 2020-06-18T015728.200.json
+
+###
+
+GET http://localhost:8081/encrypt/status
+
+<> 2020-06-18T014411.500.json
+
+###
+
+POST http://localhost:8081/encrypt
+
+<> 2020-06-18T124500.400.json
+
+###
+
+GET http://localhost:8081/encrypt/status
+
+<> 2020-06-18T123158.200.json
+
+###
+
+GET http://localhost:8080/actuator/prometheus
+Accept: text/plain;version=0.0.4;charset=utf-8
+
+<> 2020-06-15T103608.200.txt
+
+###
+
+GET http://localhost:8080/actuator/beans
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2020-06-12T035953.200.json
+
+###
+
