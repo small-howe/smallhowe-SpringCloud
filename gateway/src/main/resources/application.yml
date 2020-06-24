@@ -1,0 +1,30 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: javaboy_route
+         # uri: http://httpbin.org
+          uri: lb://provider  #lb:意思 如果启动了多个 pdovider 会自动负载均衡  不管什么请求 都回转发到provider上面
+          #  过滤器 :自动加参数 过滤器 请求转发的时候 顺便给携带参数转发
+          filters:
+            - AddRequestParameter=name,javaboy
+          predicates:
+            #多种转发条件可以 组合使用
+          #  - Path=/2019/0612/{segment} #根据地址匹配(请求路径)
+          #  - After=2021-01-01T01:01:01+08:00[Asia/Shanghai] #根据时间匹配 着这个时间之后 才会被路由  After:时间之后 Before:表示在某 之间 用英文逗号隔开
+           - Method=Get #根据请求方式来 路由
+          #  - Query=name,java.*   #根据参数请求 请求路径必须有name参数 并且参数 必须以java开始
+      # 通过注册中心来转发的功能
+      discovery:
+        locator:
+          enabled: true  #开启代理
+  application:
+    name: gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka
+    #日志级别
+logging:
+  level:
+    org.springframework.cloud.geteway: debug
