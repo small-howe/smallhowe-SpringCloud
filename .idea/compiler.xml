@@ -6,31 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="consumer" />
-        <module name="hystrix" />
+        <module name="alibabanacos" />
+        <module name="hello-api" />
         <module name="eureka2" />
         <module name="sleuth" />
         <module name="stream" />
-        <module name="micrometer" />
         <module name="gateway" />
         <module name="alibaba-sentinel" />
-        <module name="alibabanacos-signin" />
         <module name="alibaba-nacos-sentinel" />
         <module name="zuul" />
         <module name="resilience4j" />
         <module name="provider" />
-        <module name="alibabanacos-signin-consumer" />
+        <module name="hystrix" />
         <module name="consul-provider" />
         <module name="provider2" />
+        <module name="alibabanacos-signin-consumer" />
         <module name="spring-cloud-resilience4j" />
         <module name="config-client" />
         <module name="openfeign" />
         <module name="eureka" />
-        <module name="alibabanacos" />
-        <module name="hello-api" />
+        <module name="consumer" />
+        <module name="alibabanacos-signin" />
+        <module name="config-server" />
         <module name="consul-consumer" />
         <module name="commons" />
-        <module name="config-server" />
+        <module name="micrometer" />
       </profile>
     </annotationProcessing>
   </component>

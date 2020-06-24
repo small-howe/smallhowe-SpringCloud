@@ -1,26 +1,33 @@
 # 微服务-SpringCloud
-|    模块                        |       含义                        |
-|     ---                       |       ---                         |
-|    Eureka                     |    Eureka服务注册中心1              |
-|    Eureka2                    |    Eureka服务注册中心2              |
-|    Consul-provider            |    阿里Consul服务注册中心提供服务者    |
-|    Consul-consumer            |    阿里Consul服务注册中心提供消费者    |
-|    Provider                   |    服务提供者1                      |
-|    Provider2                  |    服务提供者2                      |
-|    Consumer                   |    服务消费者                       |
-|    Commons                    |    实体类                          |
-|    Openfeign                  |    服务与服务之间联系                |
-|    Hello-api                  |    提供者和openfeign之前公共的部分    |
-|    Hystrix                    |    断路器 服务熔断机制               |
-|    Micrometer                 |    服务监控普罗米修斯                |
-|    Resilience4j               |    断路器 限流 请求重试              |
-|    Spring-cloud-Resilience4j  |    结合微服务 断路器 限流 请求重试     |
-|    Zuul                       |    服务网关                        | 
-|    Gateway                    |    服务网关+限流                    |
-|    Config-server              |    配置文件 服务端                  |
-|    Config-client              |    获取配置文件 客户端               |
-|    Stream                     |    构建消息服务驱动                  |
-|    Sleuth                     |    分布式链路追踪                   |
+|    模块                         |       含义                        |
+|     ---                        |       ---                         |
+|    Alibaba-nacos-sentinel      |   使用Nocos配置Sentinel流控         |
+|    Alibaba-sentinel            |   核心库 控制台 限流等操作            |
+|    Alibabanacos                |   使用Nocos配置中心                 |
+|    Alibabanacos-signin         |   使用Nocos注册中心提供者            |
+|    Alibabanacos-signin-consumer|   提供Nocos注册中心消费者            |
+|    Aalibaba-nacos              |   提供的配置中心以及注册中心          |
+|    Eureka                      |    Eureka服务注册中心1              |
+|    Eureka2                     |    Eureka服务注册中心2              |
+|    Consul-provider             |    阿里Consul服务注册中心提供服务者    |
+|    Consul-consumer             |    阿里Consul服务注册中心提供消费者    |
+|    Provider                    |    服务提供者1                      |
+|    Provider2                   |    服务提供者2                      |
+|    Consumer                    |    服务消费者                       |
+|    Commons                     |    实体类                          |
+|    Openfeign                   |    服务与服务之间联系                |
+|    Hello-api                   |    提供者和openfeign之前公共的部分    |
+|    Hystrix                     |    断路器 服务熔断机制               |
+|    Micrometer                  |    服务监控普罗米修斯                |
+|    Resilience4j                |    断路器 限流 请求重试              |
+|    Spring-cloud-Resilience4j   |    结合微服务 断路器 限流 请求重试     |
+|    Zuul                        |    服务网关                        | 
+|    Gateway                     |    服务网关+限流                    |
+|    Config-server               |    配置文件 服务端                  |
+|    Config-client               |    获取配置文件 客户端               |
+|    Stream                      |    构建消息服务驱动                  |
+|    Sleuth                      |    分布式链路追踪                   |
+
 
 
 ### 介绍微服务 什么是微服务 有哪些优势?

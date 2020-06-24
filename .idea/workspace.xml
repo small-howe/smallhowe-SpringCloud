@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ff92d5-dffb-4b89-938a-892d57c94c75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-sentinel/src/main/java/com/tangwh/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/AlibabanacosSigninConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/java/com/tangwh/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin-consumer/src/test/java/com/tangwh/AlibabanacosSigninConsumerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/AlibabanacosSigninApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/main/java/com/tangwh/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibabanacos-signin/src/test/java/com/tangwh/AlibabanacosSigninApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,15 +47,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alibaba-sentinel/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -90,23 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alibaba-sentinel/src/main/java/com/tangwh/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="-7">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,17 +70,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/AlibabaNacosSentinelApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alibaba-sentinel/src/main/java/com/tangwh/AlibabaSentinelApplication.java">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="126">
+                <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/AlibabanacosApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="126">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -144,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="714">
               <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
             </state>
           </provider>
@@ -192,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/src/main/java/com/tangwh/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
@@ -233,7 +209,6 @@
         <option value="$PROJECT_DIR$/eureka2/pom.xml" />
         <option value="$PROJECT_DIR$/commons/src/main/java/com/tangwh/User.java" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/alibabanacos/pom.xml" />
         <option value="$PROJECT_DIR$/alibaba-sentinel/pom.xml" />
         <option value="$PROJECT_DIR$/alibaba-sentinel/src/main/java/com/tangwh/HelloController.java" />
@@ -243,6 +218,8 @@
         <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java" />
+        <option value="$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/AlibabaNacosSentinelApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -291,9 +268,9 @@
     <option name="jreName" value="1.8" />
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="97" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="263" />
+    <option name="y" value="17" />
     <option name="width" value="1440" />
     <option name="height" value="1100" />
   </component>
@@ -303,6 +280,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,73 +290,10 @@
               <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tangwh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smallhowecloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smallhowecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -775,7 +692,8 @@
       <workItem from="1592968333930" duration="4854000" />
       <workItem from="1592978313083" duration="1658000" />
       <workItem from="1592980285302" duration="2658000" />
-      <workItem from="1592985996660" duration="3199000" />
+      <workItem from="1592985996660" duration="3446000" />
+      <workItem from="1592989608297" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="consumer-消费者">
       <created>1583582059931</created>
@@ -1022,7 +940,49 @@
       <option name="project" value="LOCAL" />
       <updated>1592979564815</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="alibaba-nacos-sentinel-使用Nocos配置Sentinel流控">
+      <created>1592989331619</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1592989331620</updated>
+    </task>
+    <task id="LOCAL-00037" summary="alibabanacos-signin-consumer-阿里注册中心消费者">
+      <created>1592989426707</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1592989426707</updated>
+    </task>
+    <task id="LOCAL-00038" summary="alibabanacos-signin-阿里注册中心提供者">
+      <created>1592989450825</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1592989450825</updated>
+    </task>
+    <task id="LOCAL-00039" summary="SpringCloud -Netflix -AliBaBa">
+      <created>1592989530059</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1592989530059</updated>
+    </task>
+    <task id="LOCAL-00040" summary="alibaba-nacos-sentinel-使用Nocos配置Sentinel流控">
+      <created>1592989692807</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1592989692807</updated>
+    </task>
+    <task id="LOCAL-00041" summary="alibaba--sentinel-使用Sentinel可视化限流流控">
+      <created>1592990063738</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1592990063738</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1058,7 +1018,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198299000" />
+    <option name="totallyTimeSpent" value="199004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1070,10 +1030,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="473" y="97" width="1440" height="1100" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81" visible="true" weight="0.28498912" />
-      <window_info id="Structure" order="1" sideWeight="0.19" side_tool="true" visible="true" weight="0.28498912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8070404" visible="true" weight="0.15413333" />
+      <window_info id="Structure" order="1" sideWeight="0.19295958" side_tool="true" visible="true" weight="0.15413333" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -1090,17 +1050,17 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="6" weight="0.32897863" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897863" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32779098" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.040595397" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14587973" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003626" side_tool="true" weight="0.30040595" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32934928" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32850778" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.21937639" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.24701196" />
       <window_info anchor="bottom" id="JRebel Executor" order="17" />
       <window_info anchor="bottom" id="Version Control" order="18" weight="0.31308413" />
-      <window_info anchor="bottom" id="Run Dashboard" order="19" sideWeight="0.49963742" visible="true" weight="0.57537156" />
+      <window_info anchor="bottom" id="Run Dashboard" order="19" sideWeight="0.49963742" weight="0.6336303" />
       <window_info anchor="bottom" id="Thumbnails" order="20" weight="0.32943925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1121,11 +1081,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SpringCloud微服务" />
-    <MESSAGE value="Resilience4j--断路器-限流-请求重试" />
-    <MESSAGE value="zuul-路由网关" />
-    <MESSAGE value="resilience4j-断路器,限流,缓存,请求重试" />
-    <MESSAGE value="provider-提供服务者" />
     <MESSAGE value="micrometer-服务监控" />
     <MESSAGE value="openfeign-服务调用" />
     <MESSAGE value="zuul-路由服务网关" />
@@ -1146,7 +1101,12 @@
     <MESSAGE value="config-client-配置中心服务端" />
     <MESSAGE value="SpringCloud各大组件" />
     <MESSAGE value="alibaba-nacos-提供的配置中心以及注册中心" />
-    <option name="LAST_COMMIT_MESSAGE" value="alibaba-nacos-提供的配置中心以及注册中心" />
+    <MESSAGE value="alibabanacos-signin-consumer-阿里注册中心消费者" />
+    <MESSAGE value="alibabanacos-signin-阿里注册中心提供者" />
+    <MESSAGE value="SpringCloud -Netflix -AliBaBa" />
+    <MESSAGE value="alibaba-nacos-sentinel-使用Nocos配置Sentinel流控" />
+    <MESSAGE value="alibaba--sentinel-使用Sentinel可视化限流流控" />
+    <option name="LAST_COMMIT_MESSAGE" value="alibaba--sentinel-使用Sentinel可视化限流流控" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1318,13 +1278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/AlibabanacosApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alibabanacos-signin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1377,26 +1330,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1596">
-            <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1469,17 +1402,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sleuth/src/main/resources/application.properties">
+    <entry file="jar://E:/maven/repository/com/alibaba/nacos/nacos-client/1.2.1/nacos-client-1.2.1.jar!/com/alibaba/nacos/client/config/http/ServerHttpAgent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba-sentinel/src/test/java/com/tangwh/AlibabaSentinelApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="161">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
         </state>
       </provider>
     </entry>
@@ -1490,45 +1416,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/alibaba/nacos/nacos-client/1.2.1/nacos-client-1.2.1.jar!/com/alibaba/nacos/client/config/http/ServerHttpAgent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/AlibabaNacosSentinelApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alibaba-sentinel/src/main/java/com/tangwh/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="294">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1542,10 +1433,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba-sentinel/src/test/java/com/tangwh/AlibabaSentinelApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="-7">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba-nacos-sentinel/src/main/java/com/tangwh/AlibabaNacosSentinelApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/AlibabanacosApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibabanacos/src/main/java/com/tangwh/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
